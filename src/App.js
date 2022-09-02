@@ -1,11 +1,11 @@
-
 import React , { Component  } from 'react';
 
 import './App.css';
 
 // import FormControl from './components/FormControl';
 
-class App extends Component() {
+// class App extends Component() {
+class App extends Component {
 
  constructor(props){
   super(props)
